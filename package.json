@@ -1,0 +1,9 @@
+{
+  "name": "pp-fix-test",
+  "version": "1.0.0",
+  "description": "Throwaway repo for testing Plainpath's fix-loop pipeline. Safe to delete.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
